@@ -1,9 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Rachana Thota # your name (or website title) here
+logo: "/images/image.png?raw=true" # your photo (or logo) here
+description:  # your text below (remove <br> elements if you don't need line breaks)
+  Strong engineering professional pursuing Masters in Computer Science from George Mason University. A Software Engineer with a year experience in building micro-services and integrating it together with
+Retail domain. Worked in agile mode of development. I aspire to learn about the developing technologies in-depth and add flair to my career.
   <br><br>
-  Second description 
+  With zeal to contribute in the field of Computer Science seeking an opportunity, where my professional skills can be optimally utilized & harnessed, providing me a sound platform to take my professional interest to new heights.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
