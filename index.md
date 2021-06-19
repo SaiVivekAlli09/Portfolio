@@ -2,11 +2,6 @@
 ### Graduate Teaching Assistant at George Mason University 01/2021 -- Present
 <img src="images/gta.gif?raw=true"/>
 Graduate Teaching Assistant in the Department of Information Sciences and Technology, assisting more than 100 students for a Python-based advanced course.
-
-### Graduate Research Assistant at George Mason University 08/2020 -- 01/2021
-<img src="images/gra.gif?raw=true"/>
- Full-stack development on The Helio-physics Application Programmer's Interface data access specification (Backed by NASA), which is a
- RESTful API and streaming format specification for delivering digital time series data
  
 ### Full Stack Developer at Tech Mahindra Pvt Ltd 11/2018 -- 11/2019
 <img src="images/fsd.gif?raw=true"/>
