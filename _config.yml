@@ -1,12 +1,9 @@
 title: Rachana Thota # your name (or website title) here
-logo: "/images/img.png?raw=true" # your photo (or logo) here
-description:  # your text below (remove <br> elements if you don't need line breaks)
-  Strong engineering professional pursuing Masters in Computer Science from George Mason University. A Software Engineer with a year experience in building micro-services and integrating it together with
-Retail domain. Worked in agile mode of development. I aspire to learn about the developing technologies in-depth and add flair to my career.
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Experienced Full-stack Developer with practical knowledge in technologies like Hyperledger Fabric, Ethereum and Corda R3. Skilled in developing end-to-end MEAN and MERN stack applications. Strong engineering professional pursuing Masters in Computer Science from George Mason University. 
   <br><br>
-  With zeal to contribute in the field of Computer Science seeking an opportunity, where my professional skills can be optimally utilized & harnessed, providing me a sound platform to take my professional interest to new heights.
-  <br><br>
-  <a href="https://www.linkedin.com/in/rachana-thota-551862166/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/srikarreddykaremma/">LinkedIn Profile</a> 
+ 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
