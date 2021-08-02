@@ -22,8 +22,7 @@ Involved with DevOps model in building small to large-scale applications and mic
 
 ---
 ### Frameworks/Platforms:
-<img src="images/fw1.png?raw=true"/>
-<img src="images/fw2.png?raw=true"/>
+<img src="images/framework.png?raw=true"/>
 
 ---
 ### Operating Systems:
