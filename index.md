@@ -33,20 +33,20 @@ Involved with DevOps model in building small to large-scale applications and mic
 
 ### Projects 
 
-[MVC Based Web Application](http://example.com/)\
+[MVC Based Web Application](https://github.com/rachana07/MVC-Based-Web-Application)\
 Created multiple full stack projects by upgrading technologies each time, implemented these projects using JavaScript, JQuery UI, AJAX, HTML and CSS for the front end, Node.js/ Express for the middleware and JPA, JDBC, JSP for the server side. I have containerized this application using docker and deployed it into GCP using KUbernetes for scaling/orchestration purposes.
 
-[Complete Balancing Algorithm using Rotations](/pdf/sample_presentation.pdf)\
+[Complete Balancing Algorithm using Rotations](https://github.com/rachana07/Balancing-Tree-via-rotations)\
 Designed a self-optimization algorithm with three phases to reduce the number of performed rotations on Binary Trees consisting of 1000,1100
 and 1200 nodes at each phase. Phase 1 transformed an arbitrary binary tree into a skewed binary tree and then to a Completely Balanced Binary Tree. Phase 2 and phase 3 are more intense where we show tighter upper bounds and obtain a close lower bound on the rotation distance between a zig-zag tree and a completely balanced tree.
 
-[Airbnb Price Prediction](https://github.com/KSR4599/resdem)\
+[Airbnb Price Prediction](https://github.com/rachana07/Airbnb-Price-Prediction)\
 Evaluated the price for a new Airbnb hotel based on its location, amenities, rooms, reviews, etc. across the USA. Performed extensive feature selection and engineering and experimented with various machine learning approaches in predicting Airbnb listing price.
 
-[Product Foundation](https://github.com/KSR4599/Doc-Keeper)\
-Built the framework for application development using the approved architecture 12 factors Cloud guidelines and Restful principles. Analyzed the API contracts with consumers and groom the development stories with teams and secure the API’s
+[Student Survey Data Broker](https://github.com/rachana07/Student-Survey-Data-Broker)\
+Implemented a Java-based Producer and Consumer applications to publish and consume the student surveys to/from the survey-data-topic. 
 
-[Personal Web Revisitation by Context and Content Keywords with Relevance Feedback](https://github.com/KSR4599/Blockchain-Land-Registry-System.)\
+[Personal Web Revisitation by Context and Content Keywords with Relevance Feedback](https://github.com/rachana07/Personal-Web-Revisitation)\
 The objective was to leverage humans natural recall process of using episodic and semantic memory cues to facilitate recall and present a personal web revisitation technique called 'Web Page Review' through context and content keywords.
 
 
