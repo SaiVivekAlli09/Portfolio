@@ -4,7 +4,7 @@
 Graduate Teaching Assistant in the Department of Computer Science, assisting more than 100 students for a Python-based and Java-based advanced course.
  
 ### Software Engineer at Gap Inc 06/2018 -- 01/2020
-<img src="images/gap1.gif?raw=true" width="500" height="300"/>
+<img src="images/gap1.gif?raw=true" width="500" height="400"/>
 Involved with DevOps model in building small to large-scale applications and microservices and integrating it with the Retail domain. Collaborated with Agile teams for fast-track development to provide deliverables in line with architectural requirements as per the Architectural Review Board guidelines. Explored various tools like Splunk, New Relic, Jenkins, GitHub, Apigee.
 
 
