@@ -1,11 +1,11 @@
 ## Job History
 ### Graduate Teaching Assistant at George Mason University 01/2021 -- Present
 <img src="images/gta.gif?raw=true"/>
-Graduate Teaching Assistant in the Department of Information Sciences and Technology, assisting more than 100 students for a Python-based advanced course.
+Graduate Teaching Assistant in the Department of Computer Science, assisting more than 100 students for a Python-based and Java-based advanced course.
  
-### Full Stack Developer at Tech Mahindra Pvt Ltd 11/2018 -- 11/2019
+### Software Engineer at Gap Inc 06/2018 -- 01/2020
 <img src="images/fsd.gif?raw=true"/>
- Full-stack developer involved in developing applications using Blockchain technology on the platforms of Bitcoin, Ethereum and Hyperledger using MEAN and MERN stacks.
+Involved with DevOps model in building small to large-scale applications and microservices and integrating it with the Retail domain. Collaborated with Agile teams for fast-track development to provide deliverables in line with architectural requirements as per the Architectural Review Board guidelines. Explored various tools like Splunk, New Relic, Jenkins, GitHub, Apigee.
 
 
 ---
@@ -33,28 +33,22 @@ Graduate Teaching Assistant in the Department of Information Sciences and Techno
 
 ### Projects 
 
-[Secure Document Storage Platform using InterPlanetary File System](https://github.com/KSR4599/Doc-Keeper)\
-A full-stack application on top of MERN (MongoDB, Express, React, Node) stack technology that uses IPFS to store confidential documents in
-an encrypted fashion. This is an incentivized Ethereum based platform that uses eth as a token to make use of the storage benefits.
+[MVC Based Web Application](http://example.com/)\
+Created multiple full stack projects by upgrading technologies each time, implemented these projects using JavaScript, JQuery UI, AJAX, HTML and CSS for the front end, Node.js/ Express for the middleware and JPA, JDBC, JSP for the server side. I have containerized this application using docker and deployed it into GCP using KUbernetes for scaling/orchestration purposes.
 
 [Complete Balancing Algorithm using Rotations](/pdf/sample_presentation.pdf)\
 Designed a self-optimization algorithm with three phases to reduce the number of performed rotations on Binary Trees consisting of 1000,1100
 and 1200 nodes at each phase. Phase 1 transformed an arbitrary binary tree into a skewed binary tree and then to a Completely Balanced Binary Tree. Phase 2 and phase 3 are more intense where we show tighter upper bounds and obtain a close lower bound on the rotation distance between a zig-zag tree and a completely balanced tree.
 
-[Bad Roads – A Social Media Platform](https://github.com/KSR4599/resdem)\
-A MEAN stack application, that enables the users to upload pictures and videos of the bad roads in their neighborhood along with geo-tagging services offered by Google API.
+[Airbnb Price Prediction](https://github.com/KSR4599/resdem)\
+Evaluated the price for a new Airbnb hotel based on its location, amenities, rooms, reviews, etc. across the USA. Performed extensive feature selection and engineering and experimented with various machine learning approaches in predicting Airbnb listing price.
 
-[Inter-Modal Transportation Platform](https://github.com/KSR4599/Hyp_Intermodal-trans)\
-An Inter-Modal Transportation platform built using Hyperledger Fabric and Composer. The application is containerized using Docker and scaled using Kubernetes on the Google Cloud Platform and Digital Ocean.
+[Product Foundation](https://github.com/KSR4599/Doc-Keeper)\
+Built the framework for application development using the approved architecture 12 factors Cloud guidelines and Restful principles. Analyzed the API contracts with consumers and groom the development stories with teams and secure the API’s
 
-[Bitcoin Based Land Registry System](https://github.com/KSR4599/Blockchain-Land-Registry-System.)\
-Built a bitcoin-based land registry system that enables users to buy/bid/sell their properties. The platform is built using Node.js, Handlebars, Web-Sockets and Bootstrap.
+[Personal Web Revisitation by Context and Content Keywords with Relevance Feedback](https://github.com/KSR4599/Blockchain-Land-Registry-System.)\
+The objective was to leverage humans natural recall process of using episodic and semantic memory cues to facilitate recall and present a personal web revisitation technique called 'Web Page Review' through context and content keywords.
 
-[Security Surveillance Network to detect un-usual human activity](http://example.com/)\
-Trained a Convolutional Neural Network which can be employed in surveillance systems to detect un-usual human activity.
-
-[Dynamic Student Survey Forms, Department Course Catalog](http://example.com/)\
-Created multiple full stack projects by upgrading technologies each time, implemented these projects using JavaScript, JQuery UI, AJAX, HTML and CSS for the front end, Node.js/ Express for the middleware and JPA, JDBC, JSP for the server side. I have containerized this application using docker and deployed it into GCP using KUbernetes for scaling/orchestration purposes.
 
 
 ---
