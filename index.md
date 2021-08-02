@@ -55,6 +55,8 @@ The objective was to leverage humans natural recall process of using episodic an
 
 ---
 <img src="images/contact.gif?raw=true"/>
-<div> Phone: +1 571-326-6610 | Email: rachanathota.1996@gmail.com | Location: Fairfax, Virginia.</div>
+<div> Phone: +1 571-326-6610</div>
+<div> Email: rachanathota.1996@gmail.com </div>
+<div> Location: Fairfax, Virginia.</div>
 
 ---
