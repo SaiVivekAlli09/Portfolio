@@ -11,10 +11,10 @@ Involved with DevOps model in building small to large-scale applications and mic
 ---
 ## Skills
 ### Programming/ Scripting/ Markup Languages:
-<img src="images/prog1.png?raw=true"/>
-<img src="images/prog2.png?raw=true"/>
-<img src="images/prog3.png?raw=true"/>
-<img src="images/prog4.png?raw=true"/>
+<img src="images/p1.png?raw=true"/>
+<img src="images/p2.png?raw=true"/>
+<img src="images/p3.png?raw=true"/>
+<img src="images/p4.png?raw=true"/>
 
 ---
 ### Databases/ Cloud Services:
