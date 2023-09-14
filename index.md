@@ -1,6 +1,6 @@
 ## Job History
 ### Software Engineer at MicroStrategy 02/2022 -- Present
-<img src="images/mstr-social-preview.jpg?raw=true" width="500" height="300"/>
+<img src="images/mstr.gif?raw=true" width="500" height="300"/>
 Developed ODBC and JDBC drivers for seamless Big Data access, optimized SQL queries, and enhanced backend support within the MicroStrategy environment. Built React-based front-end services, integrated AI-driven insights, and engineered an AI Chatbot tailored for MicroStrategy applications. Additionally, improved data processing efficiency through prompt management in Node.js and designed a Machine Learning algorithm for more accurate time-series data analysis. My contributions extended to Kubernetes-based deployments, enhancing system reliability and scalability. Also played a pivotal role in chatbot troubleshooting, resulting in a 40% faster defect resolution and prompt engineering enhancements within the MicroStrategy framework.
 
 ### Graduate Teaching Assistant at George Mason University 01/2021 -- 12/2021
