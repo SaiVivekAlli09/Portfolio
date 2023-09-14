@@ -1,18 +1,7 @@
 ## Job History
 ### Software Engineer at MicroStrategy 02/2022 -- Present
 <img src="images/mstr-social-preview.jpg?raw=true" width="500" height="300"/>
-● Developed and maintained ODBC and JDBC drivers for seamless data accessibility from Big Data providers.
-● Enhanced backend support for Big Data gateways, integrating new data mapping, database types, and multi-catalog
-browsing using Java and C++.
-● Created front-end services using React to expose Big Data Gateways in Workstation Data Source Manager.
-● Optimized SQL queries in Big Data Databases for improved query efficiency.
-● Led retrieval of Self-Server Insights from Dossier Datasets via AI Assistant Integration for improved data driven process.
-● Engineered Lang Chain Model AI Chatbot to streamline time-series analysis and user interactions for chatbot.
-● Developed and seamlessly integrated a robust prompt management service into Node.js, reducing processing time by 30%.
-● Devised an efficient Machine-Learning algorithm, enhancing the accuracy of time-series data.
-● Strengthened system reliability and scalability through Kubernetes framework deployment.
-● Collaborated closely with the team on chatbot troubleshooting, contributing to 40% faster defect resolution and
-continuous prompt engineering enhancements.
+Developed ODBC and JDBC drivers for seamless Big Data access, optimized SQL queries, and enhanced backend support within the MicroStrategy environment. Built React-based front-end services, integrated AI-driven insights, and engineered an AI Chatbot tailored for MicroStrategy applications. Additionally, improved data processing efficiency through prompt management in Node.js and designed a Machine Learning algorithm for more accurate time-series data analysis. My contributions extended to Kubernetes-based deployments, enhancing system reliability and scalability. Also played a pivotal role in chatbot troubleshooting, resulting in a 40% faster defect resolution and prompt engineering enhancements within the MicroStrategy framework.
 
 ### Graduate Teaching Assistant at George Mason University 01/2021 -- 12/2021
 <img src="images/gta.gif?raw=true" width="500" height="300"/>
