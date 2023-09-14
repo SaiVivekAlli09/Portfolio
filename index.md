@@ -1,5 +1,20 @@
 ## Job History
-### Graduate Teaching Assistant at George Mason University 01/2021 -- Present
+### Software Engineer at MicroStrategy 02/2022 -- Present
+<img src="images/mstr-social-preview.jpg?raw=true" width="500" height="300"/>
+● Developed and maintained ODBC and JDBC drivers for seamless data accessibility from Big Data providers.
+● Enhanced backend support for Big Data gateways, integrating new data mapping, database types, and multi-catalog
+browsing using Java and C++.
+● Created front-end services using React to expose Big Data Gateways in Workstation Data Source Manager.
+● Optimized SQL queries in Big Data Databases for improved query efficiency.
+● Led retrieval of Self-Server Insights from Dossier Datasets via AI Assistant Integration for improved data driven process.
+● Engineered Lang Chain Model AI Chatbot to streamline time-series analysis and user interactions for chatbot.
+● Developed and seamlessly integrated a robust prompt management service into Node.js, reducing processing time by 30%.
+● Devised an efficient Machine-Learning algorithm, enhancing the accuracy of time-series data.
+● Strengthened system reliability and scalability through Kubernetes framework deployment.
+● Collaborated closely with the team on chatbot troubleshooting, contributing to 40% faster defect resolution and
+continuous prompt engineering enhancements.
+
+### Graduate Teaching Assistant at George Mason University 01/2021 -- 12/2021
 <img src="images/gta.gif?raw=true" width="500" height="300"/>
 Graduate Teaching Assistant in the Department of Computer Science, assisting more than 100 students for a Python-based and Java-based advanced course.
  
