@@ -4,5 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Dedicated and results-oriented Software Engineer with over 5 years of experience in full-stack development and a strong proficiency in a diverse range of technologies. Committed to delivering high-quality solutions, experienced in agile methodology, a thirst for learning and collaborative spirit. 
   <br><br>
   <a href="https://www.linkedin.com/in/rachana-thota-551862166/">LinkedIn Profile</a> 
- 
+
+plugins: - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
