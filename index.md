@@ -3,7 +3,7 @@
 ---
 ## Skills
 ### Data Visualization / Reporting Tools:
-<img src="images/p1.png?raw=true"/>
+<img src="images/dv1.png?raw=true"/>
 
 ---
 ### Databases:
@@ -32,7 +32,13 @@
 <img src="images/f2.png?raw=true"/>
 
 
+---
 
+### Penetration Testing Tools:
+<img src="images/pt1.png?raw=true"/>
+
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
