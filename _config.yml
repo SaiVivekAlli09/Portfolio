@@ -1,11 +1,9 @@
-title: Sai Vivek Alli # your name (or website title) here
-logo: "/images/profile-pic-3.png?raw=true" # your photo (or logo) here
+title: Rachana Thota # your name (or website title) here
+logo: "/images/my.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  With around 4 years of hands-on experience as a Data Analyst, I specialize in extracting, processing, and visualizing data using an array of powerful tools including SQL, Tableau, Python, AWS, M.S Excel, Power BI, and Databricks.  My journey has revolved around translating complex datasets into actionable insights that drive strategic business decisions. I thrive on harnessing data's potential to optimize processes and deliver tangible results. 
+  Dedicated and results-oriented Software Engineer with over 5 years of experience in full-stack development and a strong proficiency in a diverse range of technologies. Committed to delivering high-quality solutions, experienced in agile methodology, a thirst for learning and collaborative spirit. 
   <br><br>
-
- <a href="https://www.linkedin.com/in/sai-vivek-alli-7b1831172/</a> 
-   
-#remote_theme: pages-themes/minimal@v0.2.0
-plugins: - jekyll-remote-theme
+  <a href="https://www.linkedin.com/in/rachana-thota-551862166/">LinkedIn Profile</a> 
+ 
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
