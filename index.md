@@ -42,7 +42,7 @@
 ### Projects
 
 [AirBnB Price Prediction](https://github.com/SaiVivekAlli09/AirBnB-Price-Prediction)\
-This project involves assessing the price of a new Airbnb hotel in the USA by considering factors such as location, amenities, rooms, and reviews. Conducted Exploratory Data Analysis (EDA) on Airbnb data and utilizing multiple machine learning techniques to predict listing prices. Through EDA, the project explored and analyzed the dataset to gain valuable insights into the variables and their relationships. Subsequently, various machine learning approaches were applied to predict Airbnb listing prices. By combining data exploration and machine learning methodologies, the project aimed to enhance understanding and accuracy in predicting Airbnb property prices, providing valuable information for hosts and users in the platform.
+This project involves assessing the price of a new Airbnb hotel in the USA by considering factors such as location, amenities, rooms, and reviews. Conducted Exploratory Data Analysis (EDA) on Airbnb data and utilizing multiple machine learning techniques to predict listing prices. Through EDA, the project explored and analyzed the dataset to gain valuable insights into the variables and their relationships. By combining data exploration and machine learning methodologies, the project aimed to enhance understanding and accuracy in predicting Airbnb property prices, providing valuable information for hosts and users in the platform.
 
 [Project 2 Title](http://example.com/)
 
