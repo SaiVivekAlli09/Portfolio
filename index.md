@@ -53,8 +53,9 @@ Utilized predictive analytics to forecast disease outbreaks, identify high-risk 
 [Currency Converter](https://github.com/SaiVivekAlli09/Currency-Converter)\
 Currency Converter web application allows users to convert US Dollars (USD) to other selected currencies such as Euro (EUR) and British Pound (GBP). When the user enters an amount in USD and selects a currency from the dropdown menu, the application fetches the latest exchange rates using an API. Upon clicking the "Convert" button, the application calculates the converted amount based on the selected currency and displays the result on the screen. 
 
-[Project 5 Title](http://example.com/)\
+[Slot Machine]([http://example.com/](https://github.com/SaiVivekAlli09/Python-Slot-Machine-Casino)) 
 Slot Machine using Python project is a text-based simulation where users deposit an initial amount of money. They can then choose to bet on one, two, or three lines of the slot machine. After placing their bet, the program determines if they win any lines. If they do, their bet is multiplied by the value of the winning line, and the winnings are added to their balance. Users can continue playing, placing new bets and spinning the slots, until they decide to cash out or run out of money. The game provides an interactive experience, allowing players to enjoy the excitement of a slot machine without the need for a graphical interface.
+
 ---
 
 
