@@ -1,16 +1,14 @@
 ## Job History 
 ### Data Analyst at Apex IT Systems Global (Client: Takeda Pharmaceuticals) 01/2023 -- Present
-<img src="images/takeda.gif?raw=true" width="500" height="300"/>
-In my recent role at Apex IT Systems Global, I led a crucial initiative to enhance business processes for Takeda Pharmaceuticals, focusing on the Takhzyro project. Our goal was to streamline communication between Sales reps and healthcare providers (HCPs) regarding Takeda’s products for treating HAE patients. We consolidated valuable data on Databricks, enabling Sales reps to target HCPs at risk of discontinuing the product, thus fostering awareness.
-
-To achieve this, we set up a systematic data flow, ingesting leads from Symphony/Prognos to Axtria, then to Takeda's EDB (AWS S3) using Datameer for scheduled data ingestion. Data transformations and analyses were performed, generating insights on potential HCP discontinuation risk. These insights were shared with Sales reps, validated with Axtria, and integrated into Takeda’s iengage application. Feedback from the Sales reps highlighted a significant 89% effectiveness in improving HCP engagement. Additionally, dashboards in Tableau provided valuable KPI metrics, showcasing the impact of these data-driven suggestions.
+<img src="images/Takeda.gif?raw=true" width="500" height="300"/>
+During my tenure at Apex IT Systems Global, I spearheaded a pivotal project, Takhzyro, aimed at optimizing communication channels between Sales representatives and healthcare providers (HCPs) for Takeda Pharmaceuticals. Employing SQL and Immuta for data analysis, we established a streamlined data flow process, integrating leads from Symphony/Prognos to Axtria and eventually Takeda's EDB (AWS S3) via Datameer. This systematic approach facilitated scheduled data ingestion, subsequent transformations, and comprehensive analyses, yielding actionable insights on potential HCP discontinuation risks. Leveraging these insights, we provided Sales reps with targeted suggestions, which were further validated with Axtria and incorporated into Takeda's iengage application. The resultant feedback revealed an impressive 89% effectiveness in enhancing HCP engagement, underscoring the profound impact of our data-driven recommendations. Additionally, our dashboards in Tableau showcased compelling KPI metrics, providing a holistic view of the project's success.
 
 ### Data Analyst at Gaman Software Solutions Pvt Ltd 08/2019 -- 07/2021
-<img src="images/gaman.gif?raw=true" width="500" height="300"/>
-Graduate Teaching Assistant in the Department of Computer Science, assisting more than 100 students for a Python-based and Java-based advanced course.
+<img src="images/Faman.gif?raw=true" width="500" height="300"/>
+During the project, I leveraged various data analysis and visualization tools, including Power BI, SQL, Python, and Snowflake, to conduct comprehensive analyses. Using these tools, I delved into patient data related to Omeprazole treatment for gastric and duodenal ulcers, employing agile methodologies for efficient project management. The data analysis involved detailed explorations of patient demographics, clinical profiles, and geographical trends, all of which were visualized using Power BI for enhanced insights. Additionally, I implemented advanced statistical techniques and machine learning algorithms in Python to identify patterns and predict the risk of complications or recurrence associated with Omeprazole treatment. This data-driven approach facilitated a nuanced understanding of Omeprazole's impact and reinforced its significance in managing gastric and duodenal ulcers.
  
 ### Data Security Analyst at Entersoft Security 01/2019 -- 06/2019
-<img src="images/entersoft.gif?entersoft=true" width="500" height="400"/>
+<img src="images/entersoft.gif?raw=true" width="500" height="400"/>
 Involved with DevOps model in building small to large-scale applications and microservices and integrating it with the Retail domain. Collaborated with Agile teams for fast-track development to provide deliverables in line with architectural requirements as per the Architectural Review Board guidelines. Explored various tools like Splunk, New Relic, Jenkins, GitHub, Apigee.
 
 
