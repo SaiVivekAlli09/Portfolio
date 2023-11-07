@@ -1,4 +1,17 @@
 ## Job History 
+### Data Analyst at Apex IT Systems Global (Client: Takeda Pharmaceuticals) 01/2023 -- Present
+<img src="images/takeda.gif?raw=true" width="500" height="300"/>
+In my recent role at Apex IT Systems Global, I led a crucial initiative to enhance business processes for Takeda Pharmaceuticals, focusing on the Takhzyro project. Our goal was to streamline communication between Sales reps and healthcare providers (HCPs) regarding Takeda’s products for treating HAE patients. We consolidated valuable data on Databricks, enabling Sales reps to target HCPs at risk of discontinuing the product, thus fostering awareness.
+
+To achieve this, we set up a systematic data flow, ingesting leads from Symphony/Prognos to Axtria, then to Takeda's EDB (AWS S3) using Datameer for scheduled data ingestion. Data transformations and analyses were performed, generating insights on potential HCP discontinuation risk. These insights were shared with Sales reps, validated with Axtria, and integrated into Takeda’s iengage application. Feedback from the Sales reps highlighted a significant 89% effectiveness in improving HCP engagement. Additionally, dashboards in Tableau provided valuable KPI metrics, showcasing the impact of these data-driven suggestions.
+
+### Data Analyst at Gaman Software Solutions Pvt Ltd 08/2019 -- 07/2021
+<img src="images/gaman.gif?raw=true" width="500" height="300"/>
+Graduate Teaching Assistant in the Department of Computer Science, assisting more than 100 students for a Python-based and Java-based advanced course.
+ 
+### Data Security Analyst at Entersoft Security 01/2019 -- 06/2019
+<img src="images/gap1.gif?entersoft=true" width="500" height="400"/>
+Involved with DevOps model in building small to large-scale applications and microservices and integrating it with the Retail domain. Collaborated with Agile teams for fast-track development to provide deliverables in line with architectural requirements as per the Architectural Review Board guidelines. Explored various tools like Splunk, New Relic, Jenkins, GitHub, Apigee.
 
 
 ---
