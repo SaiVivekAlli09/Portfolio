@@ -1,7 +1,7 @@
 ## Job History 
 ### Data Analyst at Apex IT Systems Global (Client: Takeda Pharmaceuticals)         01/2023 -- Present
 <img src="images/Takeda.gif?raw=true" width="500" height="300"/>
-During my tenure at Apex IT Systems Global, I spearheaded a pivotal project, Takhzyro, aimed at optimizing communication channels between Sales representatives and healthcare providers (HCPs) for Takeda Pharmaceuticals. Employing SQL and Immuta for data analysis, we established a streamlined data flow process, integrating leads from Symphony/Prognos to Axtria and eventually Takeda's EDB (AWS S3) via Datameer. This systematic approach facilitated scheduled data ingestion, subsequent transformations, and comprehensive analyses, yielding actionable insights on potential HCP discontinuation risks. Leveraging these insights, we provided Sales reps with targeted suggestions, which were further validated with Axtria and incorporated into Takeda's iengage application. The resultant feedback revealed an impressive 89% effectiveness in enhancing HCP engagement, underscoring the profound impact of our data-driven recommendations. Additionally, our dashboards in Tableau showcased compelling KPI metrics, providing a holistic view of the project's success.
+During my tenure at Apex IT Systems Global, I was involved in the Takhzyro project, enhancing Sales-HCP communication for Takeda Pharmaceuticals. Using SQL and Immuta, we streamlined data flow from Symphony/Prognos to Axtria and Takeda's EDB (AWS S3) via Datameer, enabling scheduled data ingestion, transformation, and comprehensive analyses. These efforts yielded insights on potential HCP discontinuation risks, guiding targeted suggestions to Sales reps and showcasing an 89% effectiveness in improving HCP engagement. Our Tableau dashboards highlighted compelling KPI metrics, emphasizing the project's success.
 
 ### Data Analyst at Gaman Software Solutions Pvt Ltd           08/2019 -- 07/2021
 <img src="images/Gaman.gif?raw=true" width="500" height="300"/>
@@ -9,7 +9,7 @@ During the project, I leveraged various data analysis and visualization tools, i
  
 ### Data Security Analyst at Entersoft Security            01/2019 -- 06/2019
 <img src="images/entersoft.gif?raw=true" width="500" height="400"/>
-Involved with DevOps model in building small to large-scale applications and microservices and integrating it with the Retail domain. Collaborated with Agile teams for fast-track development to provide deliverables in line with architectural requirements as per the Architectural Review Board guidelines. Explored various tools like Splunk, New Relic, Jenkins, GitHub, Apigee.
+In this project, I spearheaded critical initiatives as a data security analyst, ensuring the robustness of websites and web applications through comprehensive vulnerability assessments and leading penetration testing using tools such as Burp Suite, Nmap, Sqlmap, and Nikto across five websites. Moreover, I conducted thorough exploratory data analysis and data profiling for a dataset of 15,000 credit applications, applying Python and SQL to enhance data accuracy by 30%. Leveraging Tableau, I crafted visual reports and business dashboards, successfully presenting credit risk metrics and expediting credit evaluation by 25%.
 
 
 ---
