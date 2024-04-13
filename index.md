@@ -1,5 +1,10 @@
 ## Job History 
-### Data Analyst at Apex IT Systems Global (Client: Takeda Pharmaceuticals)         01/2023 -- Present
+
+### Data Engineer at MindPROS Inc., (Client: State Highway Administration -Maryland Department of Transportation)         01/2023 -- Present
+<img src="images/Mindpros.jpeg?raw=true" width="500" height="300"/>
+During my tenure at MindPROS Inc, I was involved in project with State Highway Administration - Maryland Department of Transportation, where I managed multiple databases, ensuring accurate consultant tracking and fund management. Utilizing ETL, SQL Server, and AWS S3, I streamlined data integration and improved tracking accuracy by 30%. I employed Python for data transformations, enhancing reliability for analytics. I also implemented CI/CD pipelines using Apache Airflow, Jenkins, and Bitbucket, reducing data retrieval times by 40% and supporting continuous integration. Additionally, I leveraged Hadoop for large-scale analytics, boosting operational efficiency by 20% across the SHA Office of Construction.
+
+### Data Analyst at Apex IT Systems Global (Client: Takeda Pharmaceuticals)         08/2022 -- 01/2023
 <img src="images/Takeda.gif?raw=true" width="500" height="300"/>
 During my tenure at Apex IT Systems Global, I was involved in the Takhzyro project, enhancing Sales-HCP communication for Takeda Pharmaceuticals. Using SQL and Immuta, we streamlined data flow from Symphony/Prognos to Axtria and Takeda's EDB (AWS S3) via Datameer, enabling scheduled data ingestion, transformation, and comprehensive analyses. These efforts yielded insights on potential HCP discontinuation risks, guiding targeted suggestions to Sales reps and showcasing an 89% effectiveness in improving HCP engagement. Our Tableau dashboards highlighted compelling KPI metrics, emphasizing the project's success.
 
@@ -7,7 +12,7 @@ During my tenure at Apex IT Systems Global, I was involved in the Takhzyro proje
 <img src="images/Gaman.gif?raw=true" width="500" height="300"/>
 During the project, I leveraged various data analysis and visualization tools, including Power BI, SQL, Python, and Snowflake, to conduct comprehensive analyses. Using these tools, I delved into patient data related to Omeprazole treatment for gastric and duodenal ulcers, employing agile methodologies for efficient project management. The data analysis involved detailed explorations of patient demographics, clinical profiles, and geographical trends, all of which were visualized using Power BI for enhanced insights. Additionally, I implemented advanced statistical techniques and machine learning algorithms in Python to identify patterns and predict the risk of complications or recurrence associated with Omeprazole treatment. This data-driven approach facilitated a nuanced understanding of Omeprazole's impact and reinforced its significance in managing gastric and duodenal ulcers.
  
-### Data Security Analyst at Entersoft Security            01/2019 -- 06/2019
+### Data Security Analyst at Entersoft Security            02/2018 -- 07/2019
 <img src="images/entersoft.gif?raw=true" width="500" height="400"/>
 In this project, I spearheaded critical initiatives as a data security analyst, ensuring the robustness of websites and web applications through comprehensive vulnerability assessments and leading penetration testing using tools such as Burp Suite, Nmap, Sqlmap, and Nikto across five websites. Moreover, I conducted thorough exploratory data analysis and data profiling for a dataset of 15,000 credit applications, applying Python and SQL to enhance data accuracy by 30%. Leveraging Tableau, I crafted visual reports and business dashboards, successfully presenting credit risk metrics and expediting credit evaluation by 25%.
 
