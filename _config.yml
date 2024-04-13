@@ -1,9 +1,8 @@
 title: Sai Vivek Alli # your name (or website title) here
 logo: "/images/photo-output.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  With around 4 years of hands-on experience as a Data Analyst, I specialize in extracting, processing, and visualizing data using an array of powerful tools including SQL, Tableau, Python, AWS, M.S Excel, Power BI, and Databricks. I thrive on harnessing data's potential to optimize processes and deliver tangible results.  
-  <br><br>
-  <a href="https://www.linkedin.com/in/sai-vivek-alli-7b1831172/">LinkedIn Profile</a> 
+Over the past five years, I have established myself as a Data Engineer and Analyst, specializing in real-time data pipelines, ETL, and automation. I excel in data extraction, processing, and visualization, utilizing SQL, Python, Tableau, and Power BI. I've optimized data workflows using Apache Kafka, Spark, and cloud technologies like AWS and Azure. Additionally, I've developed and deployed machine learning models for predictive analytics and used Databricks for scalable data processing, enhancing my ability to transform complex data into actionable insights and comprehensive reports.  <br><br>
+  <a href="https://www.linkedin.com/in/vivek-alli-6789-/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
